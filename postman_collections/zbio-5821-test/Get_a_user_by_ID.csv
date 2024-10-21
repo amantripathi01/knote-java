@@ -1,0 +1,9 @@
+userId,statusCode,scenario
+"proident labore exercita",200,"User details"
+"randomString1",404,"Invalid User"
+"randomString2",500,"Server Error"
+"randomString3",400,"Bad Request"
+"proident labore exercita",200,"User details"
+"randomString4",401,"Unauthorized"
+"randomString5",403,"Forbidden"
+"proident labore exercita",200,"User details"
